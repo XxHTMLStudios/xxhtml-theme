@@ -2,7 +2,7 @@
     "name": "xxhtml-themes",
     "displayName": "XxHTML Themes",
     "description": "XxHTML Themes is the theme that XxHTML uses.",
-    "version": "0.0.3",
+    "version": "0.0.3.2",
     "publisher": "xxhtml",
     "repository": {
         "type": "git",
@@ -24,6 +24,11 @@
                 "label": "XxHTML",
                 "uiTheme": "vs-dark",
                 "path": "./themes/XxHTML-color-theme.json"
+            },
+            {
+                "label": "Orange",
+                "uiTheme": "vs-dark",
+                "path": "./themes/orange-color-theme.json"
             }
         ]
     }
