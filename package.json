@@ -29,6 +29,11 @@
                 "label": "Orange",
                 "uiTheme": "vs-dark",
                 "path": "./themes/orange-color-theme.json"
+            },
+            {
+                "label": "Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/contrast-color-theme.json.json"
             }
         ]
     }
