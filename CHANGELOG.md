@@ -1,11 +1,60 @@
 # Change Log
 
-All notable changes to the "xxhtml-theme" extension will be documented in this file.
+## 0.0.1
+### Added
+- Created XxHTML Themes
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+<!-->-------------------<-->
 
-## [Unreleased]
+## 0.0.2
+### Added
+- Added XxHTML Theme
 
-- Initial release
+<!-->-------------------<-->
+
+## 0.0.3
+### Added
+
+- Added Orange Theme
+
+<!-->-------------------<-->
+
+## 0.0.4
+### Added
+
+- Changed Version
+
+<!-->-------------------<-->
+
+## 0.0.5
+### Added
+
+- Added Contrast Theme
+
+<!-->-------------------<-->
+
+## 0.0.6
+### Added
+
+- Added Rainbow Theme
+
+<!-->-------------------<-->
+
+## 0.0.7
+### Added
+
+- Changed Rainbow Theme
+
+<!-->-------------------<-->
+
+## 0.0.8
+### Added
+
+- ADDED CHANGE LOG!
+
+<!-->-------------------<-->
+
+
+
 
 
