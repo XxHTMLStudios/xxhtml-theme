@@ -1,7 +1,7 @@
 {
-    "name": "xxhtml-theme",
-    "displayName": "xxhtml-theme",
-    "description": "XxHTML Theme is the theme that XxHTML uses.",
+    "name": "xxhtml-themes",
+    "displayName": "XxHTML Themes",
+    "description": "XxHTML Themes is the theme that XxHTML uses.",
     "version": "0.0.3",
     "publisher": "xxhtml",
     "repository": {
