@@ -38,3 +38,5 @@
 
 ![XxHTML Theme Preview](https://raw.githubusercontent.com/XxHTMLStudios/xxhtml-theme/main/images/xxhtmltheme_preview.png)
 
+> ### 7. Very Blue
+

@@ -1,65 +1,34 @@
 # Change Log
 
-## 0.0.1
-### Added
-- Created XxHTML Themes
+## ACTUAL VERSION: 0.0.15
 
-<!-->-------------------<-->
+---
 
-## 0.0.2
-### Added
-- Added XxHTML Theme
-
-<!-->-------------------<-->
-
-## 0.0.3
+## 0.0.15
 ### Added
 
-- Added Orange Theme
+- Created Very Blue Theme
 
-<!-->-------------------<-->
+---
 
-## 0.0.4
+## 0.0.13
 ### Added
 
-- Changed Version
+- Added README Markdown File
 
-<!-->-------------------<-->
+---
 
-## 0.0.5
+## 0.0.12
 ### Added
 
-- Added Contrast Theme
+- Added Details Markdown File
 
-<!-->-------------------<-->
+---
 
-## 0.0.6
+## 0.0.11
 ### Added
 
-- Added Rainbow Theme
-
-<!-->-------------------<-->
-
-## 0.0.7
-### Added
-
-- Changed Rainbow Theme
-
-<!-->-------------------<-->
-
-## 0.0.8
-### Added
-
-- ADDED CHANGE LOG!
-
-<!-->-------------------<-->
-
-## 0.0.9
-### Added
-
-- Changed all themes
-
-<!-->-------------------<-->
+- Added Mega Green Theme
 
 ## 0.0.10
 ### Added
@@ -68,28 +37,84 @@
 
 - Added Pastel Theme
 
-<!-->-------------------<-->
+---
 
-## 0.0.11
+## 0.0.9
 ### Added
 
-- Added Mega Green Theme
+- Changed all themes
 
-<!-->-------------------<-->
+---
 
-## 0.0.12
+## 0.0.8
 ### Added
 
-- Added Details Markdown File
+- ADDED CHANGE LOG!
 
-<!-->-------------------<-->
+---
 
-## 0.0.13
+## 0.0.7
 ### Added
 
-- Added README Markdown File
+- Changed Rainbow Theme
 
-<!-->-------------------<-->
+---
+
+## 0.0.6
+### Added
+
+- Added Rainbow Theme
+
+---
+
+## 0.0.5
+### Added
+
+- Added Contrast Theme
+
+---
+
+## 0.0.4
+### Added
+
+- Changed Version
+
+---
+
+## 0.0.3
+### Added
+
+- Added Orange Theme
+
+---
+
+## 0.0.2
+### Added
+
+- Added XxHTML Theme
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
