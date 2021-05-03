@@ -40,3 +40,7 @@
 
 > ### 7. Very Blue
 
+- Very Blue Theme Preview:
+
+![Very Blue Theme Preview](https://raw.githubusercontent.com/XxHTMLStudios/xxhtml-theme/main/images/very_blue_theme.png)
+
